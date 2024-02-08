@@ -7,7 +7,7 @@
 
 -  Basics of React.js:
     
-    - [ ]  JSX, components, props, and state.
+    - [x]  JSX, components, props, and state.
     - [ ]  React hooks like useState and useEffect.
     - [ ]  Rendering lists and handling events.
 -  Intermediate React Concepts:
